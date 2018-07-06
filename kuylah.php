@@ -16,7 +16,7 @@ $kk = $data3[1];
 echo ".::[ KTP & KK Generate ]::.\n\n";
 echo "Code By; ZeroSvn\n";
 echo "Decoded By ./GhostDecoded_\n";
-echo "RowotengahCyber_
+echo "RowotengahCyber_\n";
 echo "www.ghostrecoded.zone.id\n";
 echo "Thanks To; BabbyCyberTeam || SGB-TEAM || JNCK MEDIA || AnonXec81 dll\n\n";
 echo "No. KTP : ".$ktp."\n";
