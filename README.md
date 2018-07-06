@@ -11,9 +11,11 @@ www.ghostrecoded.zone.id
 
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/zerosvn/regenerate12
+$ git clone https://github.com/ghostrecoded/regenerate12/
 $ cd regenerate
 $ ls
 $ php kuylah.php
 ```
 # Have Fun Dear :*
+
+https://github.com/ghostrecoded/regenerate12
